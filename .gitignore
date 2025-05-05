@@ -1,0 +1,15 @@
+# Python venv and junk
+venv/
+__pycache__/
+*.pyc
+
+# VSCode or JetBrains
+.vscode/
+.idea/
+
+# Datasets or output
+data/
+outputs/
+checkpoints/
+*.h5
+*.ckpt
