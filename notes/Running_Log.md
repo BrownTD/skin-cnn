@@ -1,3 +1,4 @@
+# 05-05-2025
 # ✅ Project Setup Log: `skin-cnn`
 
 ## 1. Environment Setup
@@ -53,4 +54,5 @@
 
 ---
 
-TensorFlow Tutorial - https://www.youtube.com/watch?v=ea5Z1smiR3U&utm_source=chatgpt.com
+### TensorFlow Tutorial - https://www.youtube.com/watch?v=ea5Z1smiR3U&utm_source=chatgpt.com
+- `05-06-2025` Video 3 - Timestamp 14:31
